@@ -1,0 +1,32 @@
+Student Name:				Ethan Hopkins
+TUID:						819321332
+Email Address:				jekfjenf
+Phone Number:				kakdjdsak
+Major:						jkfeljlks
+Expected Graduation Date:	fjkdfdkj
+Undergraduate Status:		true
+
+Student Name:				ehdshljs
+TUID:						987654321
+Email Address:				jkljdalks
+Phone Number:				jjkfldsjf
+Major:						jfkdljfds
+Expected Graduation Date:	04-3930424
+Undergraduate Status:		false
+
+Student Name:				jfnwkjfnewk
+TUID:					123456789
+Email Address:				jkdsjldas
+Phone Number:				jdksajld
+Major:					jdkaldjlksa
+Expected Graduation Date:		jdklajlkds
+Undergraduate Status:			true
+
+Student Name:				jkdsajkdsajlkd
+TUID:					987654321
+Email Address:				jkdljsanc
+Phone Number:				nmc,dbsf
+Major:					jieuw
+Expected Graduation Date:		uiowdnc
+Undergraduate Status:			true
+
